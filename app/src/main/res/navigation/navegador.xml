@@ -3,27 +3,28 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/navegador"
+    android:label="@string/acercade"
     app:startDestination="@id/nav_home">
 
     <fragment
         android:id="@+id/nav_home"
         android:name="com.example.navigationdrawerkotlin.fragments.HomeFragment"
-        android:label="fragment_home"
+        android:label="Inicio"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/nav_asir"
         android:name="com.example.navigationdrawerkotlin.fragments.ASIRFragment"
-        android:label="fragment_a_s_i_r"
+        android:label="@string/asir"
         tools:layout="@layout/fragment_a_s_i_r" />
     <fragment
         android:id="@+id/nav_dam"
         android:name="com.example.navigationdrawerkotlin.fragments.DAMFragment"
-        android:label="fragment_d_a_m"
+        android:label="@string/dam"
         tools:layout="@layout/fragment_d_a_m" />
     <fragment
         android:id="@+id/nav_daw"
         android:name="com.example.navigationdrawerkotlin.fragments.DAWFragment"
-        android:label="fragment_d_a_w"
+        android:label="@string/daw"
         tools:layout="@layout/fragment_d_a_w" />
     <fragment
         android:id="@+id/nav_acercade"
