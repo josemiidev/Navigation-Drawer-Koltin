@@ -1,19 +1,15 @@
 <resources>
     <string name="app_name">NavigationDrawerKotlin</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+
+    <string name="oretania">IES Oretnaia</string>
+    <string name="CFGS_inline">Ciclos Formativos de Grado Superior</string>
     <string name="CFGS">Ciclos Formativos\nGrado Superior</string>
     <string name="informatica">Informática</string>
+
     <string name="cfgs_asir">CFGS ASIR</string>
     <string name="cfgs_daw">CFGS DAW</string>
     <string name="cfgs_dam">CFGS DAM</string>
     <string name="autor">Autor: José Miguel Lorenzo Lara</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="texto_asir">
         ¿Qué es ASIR?\n\n
@@ -29,4 +25,10 @@
         ¿Qué es DAM?\n\n
         El Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma, también conocido como DAM, es una formación profesional que se centra en la programación de software para aplicaciones móviles o de escritorio. Además, en algunas ocasiones, los especialistas en esta área podrán dirigir sus objetivos al desarrollo de videojuegos adaptados a diferentes dispositivos digitales, uno de los ámbitos donde las empresas se están enfocando actualmente.
     </string>
+
+    <string name="home">Home</string>
+    <string name="asir">ASIR</string>
+    <string name="daw">DAW</string>
+    <string name="dam">DAM</string>
+    <string name="acercade">Acerca de</string>
 </resources>
