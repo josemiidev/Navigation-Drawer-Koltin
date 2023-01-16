@@ -8,6 +8,25 @@
     <string name="action_settings">Settings</string>
     <string name="CFGS">Ciclos Formativos\nGrado Superior</string>
     <string name="informatica">Informática</string>
+    <string name="cfgs_asir">CFGS ASIR</string>
+    <string name="cfgs_daw">CFGS DAW</string>
+    <string name="cfgs_dam">CFGS DAM</string>
+    <string name="autor">Autor: José Miguel Lorenzo Lara</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="texto_asir">
+        ¿Qué es ASIR?\n\n
+        ASIR es un Grado Superior oficial homologado por el Ministerio de Educación enfocado en la administración y mantenimiento de sistemas informáticos en red teniendo en cuenta la reglamentación vigente y garantizando la funcionalidad y calidad de los servicios informáticos implementados. Con estos conocimientos, tu labor será esencial en todo tipo de empresas, ya que hoy en día toda actividad empresarial depende de una correcta configuración de sus sistemas informáticos.
+        \n\n
+        Como Técnico Superior en Administración de Sistemas Informáticos en Red estarás capacitado para administrar diferentes sistemas operativos, gestionar bases de datos, mejorar el rendimiento del hardware de una empresa o diagnosticar disfunciones en los servicios, sistemas y sobre todo en la seguridad. De igual forma, estarás capacitado para diseñar e implementar la red de datos en cualquier entidad. ¡Conviértete en un profesional básico en cualquier sector!
+    </string>
+    <string name="texto_daw">
+        ¿Qué es DAW?\n\n
+        El Ciclo Superior Desarrollo de Aplicaciones Web o también denominado DAW es una titulación oficial de FP que se enfoca en el desarrollo, mantenimiento e implantación de aplicaciones informáticas en diferentes entornos web, tanto en internet como en intranet y extranet. Además, muchas de las entidades en este sector buscan también un perfil que sea capaz de gestionar el posicionamiento orgánico de la web en buscadores.
+    </string>
+    <string name="texto_dam">
+        ¿Qué es DAM?\n\n
+        El Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma, también conocido como DAM, es una formación profesional que se centra en la programación de software para aplicaciones móviles o de escritorio. Además, en algunas ocasiones, los especialistas en esta área podrán dirigir sus objetivos al desarrollo de videojuegos adaptados a diferentes dispositivos digitales, uno de los ámbitos donde las empresas se están enfocando actualmente.
+    </string>
 </resources>
