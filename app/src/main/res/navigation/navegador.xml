@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navegador"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.navigationdrawerkotlin.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_asir"
+        android:name="com.example.navigationdrawerkotlin.fragments.ASIRFragment"
+        android:label="fragment_a_s_i_r"
+        tools:layout="@layout/fragment_a_s_i_r" />
+    <fragment
+        android:id="@+id/nav_dam"
+        android:name="com.example.navigationdrawerkotlin.fragments.DAMFragment"
+        android:label="fragment_d_a_m"
+        tools:layout="@layout/fragment_d_a_m" />
+    <fragment
+        android:id="@+id/nav_daw"
+        android:name="com.example.navigationdrawerkotlin.fragments.DAWFragment"
+        android:label="fragment_d_a_w"
+        tools:layout="@layout/fragment_d_a_w" />
+    <fragment
+        android:id="@+id/nav_acercade"
+        android:name="com.example.navigationdrawerkotlin.fragments.AcercadeFragment"
+        android:label="fragment_acercade"
+        tools:layout="@layout/fragment_acercade" />
+</navigation>
